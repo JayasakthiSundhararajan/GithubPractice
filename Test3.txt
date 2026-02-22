@@ -1,0 +1,1 @@
+This file is created to check if the changes happening in Git repo is reflecting in my Local machine VS code
